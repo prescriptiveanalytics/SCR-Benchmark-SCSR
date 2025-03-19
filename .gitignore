@@ -2,3 +2,6 @@ data/experiments
 Lib
 Scripts
 .vscode/launch.json
+share
+CACHEDIR.TAG
+pyvenv.cfg
